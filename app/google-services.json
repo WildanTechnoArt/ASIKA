@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "633251508449",
+    "project_id": "asika-e8248",
+    "storage_bucket": "asika-e8248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633251508449:android:34f1a77ab7f85aeca047a0",
+        "android_client_info": {
+          "package_name": "com.unpi.asika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633251508449-qq32mfo2t53m81kleelq5kdjd0o1jf5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unpi.asika",
+            "certificate_hash": "4c508e4d4a008732b7f8de5f4c82d61a549e5aaf"
+          }
+        },
+        {
+          "client_id": "633251508449-5gu8hr0fvcth4g2asqofchv00jme2ihj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCln7kqsfI4hYBWIZP2OG5JdtP3uyoOnh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633251508449-5gu8hr0fvcth4g2asqofchv00jme2ihj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
